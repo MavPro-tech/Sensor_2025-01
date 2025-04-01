@@ -42,10 +42,10 @@ Dessa forma, com as Tarefas já traçadas, definimos a quantidade de tempo neces
 
 ## 📅Sprints 
 
-### Entrega - 1️⃣ 🎯 ([Clique aqui](https://github.com/MavPro-tech/Sensor_2025-01))  Em Construção 🚧
-### Entrega - 2️⃣ 🎯 ([Clique aqui](https://github.com/MavPro-tech/Sensor_2025-02))  Em Construção 🚧
-### Entrega - 3️⃣ 🎯 ([Clique aqui](https://github.com/MavPro-tech/Sensor_2025-03))  Em Construção 🚧
-### Entrega - 4️⃣ 🎯 ([Clique aqui](https://github.com/MavPro-tech/Sensor_2025-04))  Em Construção 🚧
+### Entrega - 1️⃣ 🎯 ([Clique aqui](https://github.com/MavPro-tech/Sensor_2025-01/tree/sprint_01))  Em Construção 🚧
+### Entrega - 2️⃣ 🎯 ([Clique aqui](https://github.com/MavPro-tech/Sensor_2025-01/tree/sprint_02))  Em Construção 🚧
+### Entrega - 3️⃣ 🎯 ([Clique aqui](https://github.com/MavPro-tech/Sensor_2025-01/tree/sprint_03))  Em Construção 🚧
+### Entrega - 4️⃣ 🎯 ([Clique aqui](https://github.com/MavPro-tech/Sensor_2025-01/tree/sprint_04))  Em Construção 🚧
 
 
 <span id="autores">
