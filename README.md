@@ -13,6 +13,8 @@
   <a href="#objetivo">Objetivo da Sprint </a>
   |
   <a href="#desenvolvimento">Desenvolvimento </a>
+  |
+  <a href="#cronograma">Cronograma </a>
   
 </p>
 
@@ -50,6 +52,15 @@ O objetivo do projeto é realizar o pré projeto, assim, para atingir o resultad
 ## 📚Desenvolvimento
 
 Trabalhamos em equipe usando várias ferramentas que ajudaram a organizar as ideias e transformar tudo em um projeto concreto. Ferramentas como o Brainstorm, onde cada um trouxe sugestões e ideias livres, 5W2H, onde conseguimos responder as perguntas-chave, o Canvas do Projeto para enxergar o projeto como um todo, e claro, fomos atrás de Informações Técnicas pesquisando sobre os sensores, como funcionam e quais os melhores materiais e tecnologias para usar.
+
+<span id="cronograma">
+
+## 📅Cronograma
+
+> Esse é um cronograma inicial do nosso projeto, podendo ocorrer mudanças ao longo do periodo.
+
+![Cronograma](https://github.com/user-attachments/assets/c685040f-4fc6-420e-80f6-725b1428fdfe)
+
 
 ## 📝Documentação:  [Clique Aqui](https://github.com/MavPro-tech/Sensor_2025-01/tree/main/documents/sprints/sprint01)
 
