@@ -18,7 +18,8 @@
   
 ## 📌Objetivo do Projeto
 > [!IMPORTANT]
-> Objetivo do Projeto. 
+>  O objetivo é desenvolver e demonstrar a aplicação prática do CI555 no acionamento de dispositivos eletrônicos. Utilizando suas configurações como temporizador, astável ou monoestável, controlar o funcionamento de LEDs, motores, relés e outros componentes, oferecendo uma solução simples, versátil e de baixo custo para diversas aplicações em automação e eletrônica básica.
+
 
 > **Status do Projeto: Em Processo 🚧**
 
@@ -27,7 +28,9 @@
   
 ## 💡Visão do Produto
 > [!TIP]
-> Visão do produto - Sensor Óptico Barreira.
+> A crescente preocupação com a segurança tem impulsionado o desenvolvimento de soluções tecnológicas acessíveis e eficientes para proteção de propriedades. Entre as soluções acessíveis, sensores de barreiras ópticas se destacam por sua capacidade de detectar intrusões de forma rápida e eficaz. Com isso, este projeto visa atender essas condições de forma prática, simples e de baixo custo.
+
+> A proposta é desenvolver um sistema automatizado de segurança, utilizando o circuito integrado 555 com um sensor óptico, que quando violado aciona um alerta visual e sonoro.
 
 <span id="metodologia">
   
