@@ -51,7 +51,7 @@ O objetivo do projeto é realizar o pré projeto, assim, para atingir o resultad
 
 Trabalhamos em equipe usando várias ferramentas que ajudaram a organizar as ideias e transformar tudo em um projeto concreto. Ferramentas como o Brainstorm, onde cada um trouxe sugestões e ideias livres, 5W2H, onde conseguimos responder as perguntas-chave, o Canvas do Projeto para enxergar o projeto como um todo, e claro, fomos atrás de Informações Técnicas pesquisando sobre os sensores, como funcionam e quais os melhores materiais e tecnologias para usar.
 
-## 📝Documentação:  [Clique Aqui](/documents/sprints/sprint01)
+## 📝Documentação:  [Clique Aqui](main/documents/sprints/sprint01)
 <br>
 
   
