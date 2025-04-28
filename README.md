@@ -39,14 +39,18 @@ A Metodologia Ágil, a qual utilizamos no produto foi o Scrum, um método ágil 
 
 Dessa forma, com as Tarefas já traçadas, definimos a quantidade de tempo necessário para cada Tarefa, sendo dividido, de maneira mais otimizada, entre os Desenvolvedores do time.
 
+## 📚EAP - Estrutura Analítica do Projeto
+A EAP (Estrutura Analítica do Projeto) é um diagrama que organiza o escopo do projeto de forma visual, hierárquica e em partes menores, a fim de facilitar o gerenciamento das entregas. Em outras palavras, é uma ferramenta que organiza o trabalho que será realizado no projeto, representando graficamente e simplificadamente o escopo.
 
+![Gráfico EAP](https://github.com/user-attachments/assets/a668a69c-2e3d-458a-8528-bb619329b6ac)
+![Dicionário EAP](https://github.com/user-attachments/assets/d6078959-5fa0-4a35-9e82-d8dd5545aee3)
 
 <span id="sprints">
 
 ## 📅Sprints 
 
 ### Entrega - 1️⃣ 🎯 ([Clique aqui](https://github.com/MavPro-tech/Sensor_2025-01/tree/sprint_01))  Concluído ✅
-### Entrega - 2️⃣ 🎯 ([Clique aqui](https://github.com/MavPro-tech/Sensor_2025-01/tree/sprint_02))  Em Construção 🚧
+### Entrega - 2️⃣ 🎯 ([Clique aqui](https://github.com/MavPro-tech/Sensor_2025-01/tree/sprint_02))  Concluído ✅
 ### Entrega - 3️⃣ 🎯 ([Clique aqui](https://github.com/MavPro-tech/Sensor_2025-01/tree/sprint_03))  Em Construção 🚧
 ### Entrega - 4️⃣ 🎯 ([Clique aqui](https://github.com/MavPro-tech/Sensor_2025-01/tree/sprint_04))  Em Construção 🚧
 
