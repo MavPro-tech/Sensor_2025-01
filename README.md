@@ -54,6 +54,8 @@ O objetivo dessa entrega no projeto, é executar as ações para o desenvolvimen
 
 ## 📅Cronograma
 
+![Sprint 3](https://github.com/user-attachments/assets/bb1fc8fc-ced9-4430-8e69-7f7a9c4dd690)
+
 > 
 
 ## 📝Documentação:  [Clique Aqui](https://github.com/MavPro-tech/Sensor_2025-01/tree/main/documents/sprints/sprint03)
